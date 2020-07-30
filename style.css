@@ -1,0 +1,17 @@
+#red{
+    background: red;
+    width: 900px;
+    height: 150px;
+}
+#green{
+    background: green;
+    width: 35%;
+    height: 150px;
+    display: inline-block;
+}
+#blue{
+    background: blue;
+    width: 35%;
+    height: 150px;
+    display: inline-block
+}
